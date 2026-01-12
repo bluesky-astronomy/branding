@@ -6,6 +6,9 @@ The current logos were designed by Janine Jochum in 2025.
 
 The logos are made using Affinity Designer v2, with everything contained in the file `branding.afdesign`.
 
+**For printing:** the `print_ready` folder contains a version of the main logo ready to print as a sticker (converted to CMYK colours for printing.)
+
+
 ## Licensing
 
 The final versions of these logos are listed under an MIT license.
